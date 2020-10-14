@@ -404,11 +404,6 @@ svg[name="Activity"] {
   display: none;
 }
 
-#app-mount .container-1r6BKw {
-  box-shadow: none;
-  border-bottom: 2px solid var(--main-color);
-}
-
 .headerBar-UHpsPw {
   height: 48px;
   padding: 0 8px 0 12px;
@@ -543,13 +538,6 @@ svg[name="Activity"] {
 .searchFilter-2ESiM3 {
   border-radius: 3px;
   padding: 0px 8px 1px 6px;
-}
-
-.privateChannels-1nO12o .searchBar-6Kv8R2 {
-  border-bottom: 2px solid var(--main-color);
-  padding: 0px;
-  height: 46px;
-  box-shadow: 0px 0px transparent !important
 }
 
 .privateChannels-1nO12o .searchBar-6Kv8R2 input,
@@ -3153,11 +3141,6 @@ pre {
 
 #app-mount .wrapper-3t9DeA[style*="height: 80px"] foreignObject+svg rect:not([x*="60"]) {
   transform: translate(-48px, -51px);
-}
-
-#app-mount svg:not(:root),
-.userInfo-2zN2z8 {
-  overflow: visible !important;
 }
 
 rect[fill="#43b581"] + .dots-3Bkt3k {
